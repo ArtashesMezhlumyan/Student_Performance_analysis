@@ -1,0 +1,13 @@
+name: StudentsPerformance
+title: StudentsPerformance
+username:
+account: mathvsportuguese
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7867192
+bundleId: 6623010
+url: https://mathvsportuguese.shinyapps.io/StudentsPerformance/
+when: 1670762823.93276
+lastSyncTime: 1670762823.93277
+asMultiple: FALSE
+asStatic: FALSE
